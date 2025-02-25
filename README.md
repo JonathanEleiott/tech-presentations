@@ -2,13 +2,14 @@
 
 ## Helpful Tips
 
-- Don't have a distracting background
+- Don't have a distracting background. Use one of the following...
   - Blur your background
   - Solid color background
   - Consistent background
 - Mic and volume check before presentation
 - No background noise
-- Have only one person share their screen
+- Have only one person share their screen and have them do the demo
+  - Do not keep clicking around after the demo portion is completed
 - Share sound if the audience needs to hear your computer
 - Use fluctuation in your voice and motion in your hands when you talk
   - Don't overdue it
@@ -41,13 +42,13 @@
   - Admin
 - Showing off functionality
 - If something isn't working, don't demo it
-- You may not get through every portion of your app
+- You may not get through every portion of your app, that's ok
 - Only Front-End
 
 ## Tech Stack (30 seconds - 1 minute)
 
 - Which technologies did you use?
-- Why did you choose that technology?
+- Why did you choose that technology? (google it if you can't think of the right words to say)
   - React
     - responds to page updates quickly
   - Redux
@@ -65,7 +66,7 @@
 - New technologies
 - Design and planning
 - Working remotely
-- HOW DID YOU GET PAST THESE CHALLENGES?
+- HOW DID YOU GET PAST THESE CHALLENGES? (VERY IMPORTANT)
   - project management tool (GitHub Project)
   - communicating effectively through Slack
   - pair programming
